@@ -28,3 +28,7 @@ for cookie in cookies:
       theirUser: target
     }
   )
+
+  
+  # discountined look at my other repos
+  # i have made this a full project
